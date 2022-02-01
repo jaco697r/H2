@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Desktop\H2\Guess a number\guess a number\bin\Debug\netcoreapp3.1\guess a number.exe
+C:\Users\Lenovo\Desktop\H2\Guess a number\guess a number\bin\Debug\netcoreapp3.1\guess a number.deps.json
+C:\Users\Lenovo\Desktop\H2\Guess a number\guess a number\bin\Debug\netcoreapp3.1\guess a number.runtimeconfig.json
+C:\Users\Lenovo\Desktop\H2\Guess a number\guess a number\bin\Debug\netcoreapp3.1\guess a number.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\H2\Guess a number\guess a number\bin\Debug\netcoreapp3.1\guess a number.dll
+C:\Users\Lenovo\Desktop\H2\Guess a number\guess a number\bin\Debug\netcoreapp3.1\guess a number.pdb
+C:\Users\Lenovo\Desktop\H2\Guess a number\guess a number\obj\Debug\netcoreapp3.1\guess a number.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\H2\Guess a number\guess a number\obj\Debug\netcoreapp3.1\guess a number.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\H2\Guess a number\guess a number\obj\Debug\netcoreapp3.1\guess a number.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\H2\Guess a number\guess a number\obj\Debug\netcoreapp3.1\guess a number.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\H2\Guess a number\guess a number\obj\Debug\netcoreapp3.1\guess a number.dll
+C:\Users\Lenovo\Desktop\H2\Guess a number\guess a number\obj\Debug\netcoreapp3.1\guess a number.pdb
+C:\Users\Lenovo\Desktop\H2\Guess a number\guess a number\obj\Debug\netcoreapp3.1\guess a number.genruntimeconfig.cache
