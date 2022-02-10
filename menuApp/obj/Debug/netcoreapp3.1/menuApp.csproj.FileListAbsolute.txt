@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Desktop\H2\menuApp\bin\Debug\netcoreapp3.1\menuApp.exe
+C:\Users\Lenovo\Desktop\H2\menuApp\bin\Debug\netcoreapp3.1\menuApp.deps.json
+C:\Users\Lenovo\Desktop\H2\menuApp\bin\Debug\netcoreapp3.1\menuApp.runtimeconfig.json
+C:\Users\Lenovo\Desktop\H2\menuApp\bin\Debug\netcoreapp3.1\menuApp.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\H2\menuApp\bin\Debug\netcoreapp3.1\menuApp.dll
+C:\Users\Lenovo\Desktop\H2\menuApp\bin\Debug\netcoreapp3.1\menuApp.pdb
+C:\Users\Lenovo\Desktop\H2\menuApp\obj\Debug\netcoreapp3.1\menuApp.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\H2\menuApp\obj\Debug\netcoreapp3.1\menuApp.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\H2\menuApp\obj\Debug\netcoreapp3.1\menuApp.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\H2\menuApp\obj\Debug\netcoreapp3.1\menuApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\H2\menuApp\obj\Debug\netcoreapp3.1\menuApp.dll
+C:\Users\Lenovo\Desktop\H2\menuApp\obj\Debug\netcoreapp3.1\menuApp.pdb
+C:\Users\Lenovo\Desktop\H2\menuApp\obj\Debug\netcoreapp3.1\menuApp.genruntimeconfig.cache

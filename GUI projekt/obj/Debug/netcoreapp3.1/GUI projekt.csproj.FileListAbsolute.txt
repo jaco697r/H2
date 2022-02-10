@@ -1,0 +1,19 @@
+C:\Users\Lenovo\Desktop\H2\GUI projekt\bin\Debug\netcoreapp3.1\GUI projekt.exe
+C:\Users\Lenovo\Desktop\H2\GUI projekt\bin\Debug\netcoreapp3.1\GUI projekt.deps.json
+C:\Users\Lenovo\Desktop\H2\GUI projekt\bin\Debug\netcoreapp3.1\GUI projekt.runtimeconfig.json
+C:\Users\Lenovo\Desktop\H2\GUI projekt\bin\Debug\netcoreapp3.1\GUI projekt.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\H2\GUI projekt\bin\Debug\netcoreapp3.1\GUI projekt.dll
+C:\Users\Lenovo\Desktop\H2\GUI projekt\bin\Debug\netcoreapp3.1\GUI projekt.pdb
+C:\Users\Lenovo\Desktop\H2\GUI projekt\obj\Debug\netcoreapp3.1\GUI projekt.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\H2\GUI projekt\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\H2\GUI projekt\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Lenovo\Desktop\H2\GUI projekt\obj\Debug\netcoreapp3.1\GUI projekt_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\H2\GUI projekt\obj\Debug\netcoreapp3.1\GUI projekt_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\H2\GUI projekt\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Lenovo\Desktop\H2\GUI projekt\obj\Debug\netcoreapp3.1\GUI projekt.g.resources
+C:\Users\Lenovo\Desktop\H2\GUI projekt\obj\Debug\netcoreapp3.1\GUI projekt.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\H2\GUI projekt\obj\Debug\netcoreapp3.1\GUI projekt.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\H2\GUI projekt\obj\Debug\netcoreapp3.1\GUI projekt.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\H2\GUI projekt\obj\Debug\netcoreapp3.1\GUI projekt.dll
+C:\Users\Lenovo\Desktop\H2\GUI projekt\obj\Debug\netcoreapp3.1\GUI projekt.pdb
+C:\Users\Lenovo\Desktop\H2\GUI projekt\obj\Debug\netcoreapp3.1\GUI projekt.genruntimeconfig.cache

@@ -1,0 +1,24 @@
+﻿<Window x:Class="GUI_projekt.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GUI_projekt"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="409" Width="258">
+    <Grid x:Name="age" Margin="10,10,27,7">
+        <Button x:Name="Save_Click" Content="Save" HorizontalAlignment="Left" Margin="139,271,0,0" VerticalAlignment="Top" RenderTransformOrigin="6.205,7.822" Height="19" Width="44" AutomationProperties.Name="Save" Click="Button_Click"/>
+        <TextBox x:Name="lastName" HorizontalAlignment="Left" Margin="62,90,0,0" Text="Last Name" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="firstName" HorizontalAlignment="Left" Margin="62,57,0,0" Text="First Name" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged"/>
+        <TextBox x:Name="age1" HorizontalAlignment="Left" Margin="62,123,0,0" Text="Age" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="cpr" HorizontalAlignment="Left" Margin="62,156,0,0" Text="CPR" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Male&#xD;&#xA;" HorizontalAlignment="Left" Margin="60,206,0,0" VerticalAlignment="Top" Height="26" Width="37"/>
+        <Label Content="Female" HorizontalAlignment="Left" Margin="137,206,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="male" Content="" HorizontalAlignment="Left" Margin="69,226,0,0" VerticalAlignment="Top" Checked="CheckBox_Checked"/>
+        <CheckBox x:Name="female" Content="" HorizontalAlignment="Left" Margin="152,226,0,0" VerticalAlignment="Top" Checked="CheckBox_Checked" Width="17"/>
+        <Label Content="Create New Person" HorizontalAlignment="Left" Margin="62,15,0,0" VerticalAlignment="Top" Height="26" Width="120"/>
+        <Button Content="Cancel" HorizontalAlignment="Left" Margin="58,271,0,0" VerticalAlignment="Top" RenderTransformOrigin="6.205,7.822" Height="19" Width="44" AutomationProperties.Name="Save"/>
+        <Label x:Name="output1" Content="Output" HorizontalAlignment="Left" Margin="69,302,0,0" VerticalAlignment="Top" Height="49" Width="100"/>
+
+    </Grid>
+</Window>

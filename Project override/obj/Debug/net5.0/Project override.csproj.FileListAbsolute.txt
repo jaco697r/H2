@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\H2\Project override\obj\Debug\net5.0\Project override.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\H2\Project override\obj\Debug\net5.0\Project override.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\H2\Project override\obj\Debug\net5.0\Project override.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\H2\Project override\obj\Debug\net5.0\Project override.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\H2\Project override\obj\Debug\net5.0\Project override.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\H2\Project override\bin\Debug\net5.0\Project override.exe
+C:\Users\Lenovo\Desktop\H2\Project override\bin\Debug\net5.0\Project override.deps.json
+C:\Users\Lenovo\Desktop\H2\Project override\bin\Debug\net5.0\Project override.runtimeconfig.json
+C:\Users\Lenovo\Desktop\H2\Project override\bin\Debug\net5.0\Project override.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\H2\Project override\bin\Debug\net5.0\Project override.dll
+C:\Users\Lenovo\Desktop\H2\Project override\bin\Debug\net5.0\ref\Project override.dll
+C:\Users\Lenovo\Desktop\H2\Project override\bin\Debug\net5.0\Project override.pdb
+C:\Users\Lenovo\Desktop\H2\Project override\obj\Debug\net5.0\Project override.dll
+C:\Users\Lenovo\Desktop\H2\Project override\obj\Debug\net5.0\ref\Project override.dll
+C:\Users\Lenovo\Desktop\H2\Project override\obj\Debug\net5.0\Project override.pdb
+C:\Users\Lenovo\Desktop\H2\Project override\obj\Debug\net5.0\Project override.genruntimeconfig.cache
